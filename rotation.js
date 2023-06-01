@@ -1,8 +1,9 @@
 const Texts = [
     'HTML', 'CSS', 'JavaScript',
-    'Python', 'C++', 'JAVA',
-    'MySQL', 'NODE.JS', 'C','ELECTRON', 'C#','GIT',
-    'UNITY', 'Algorithms'
+    'Python', 'JAVA',
+    'MySQL', 'NODE.JS','ELECTRON', 'C#','GIT',
+    'UNITY', 'Algorithms', 'ASP.NET', 'Flutter', 'DART',
+    'React', 'Balsamiq', 'Figma', 'SQL', 'Android'
 ];
 
 var tagCloud = TagCloud('.Sphere', Texts, {
